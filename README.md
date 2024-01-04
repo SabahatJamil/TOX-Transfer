@@ -1,5 +1,6 @@
 # TOX-Transfer
 #Introduction
+
 This repository contains code for performing transfer learning on the ClinTox dataset using the Simple Transformers module in Python. The ClinTox dataset consists of data for compounds that have been rejected for toxicity in clinical trials. The goal is to leverage transfer learning techniques to train a model that can accurately predict toxicity based on pre-trained language models.
 Introduction
 This repository contains code for predicting the toxicity of compounds from Semen Coicis and Panax Ginseng, filtering FDA-approved compounds against Ulcerative Colitis, and performing similarity analysis using Morgan fingerprints. The goal is to identify potentially non-toxic compounds from natural sources and assess their similarity to FDA-approved drugs.
